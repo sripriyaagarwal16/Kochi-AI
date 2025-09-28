@@ -10,3 +10,4 @@ requests
 IndicTransToolkit
 flask-cors
 google-generativeai
+gunicorn
