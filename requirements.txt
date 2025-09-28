@@ -1,0 +1,12 @@
+flask
+python-dotenv
+pymupdf
+fasttext-wheel
+huggingface_hub
+transformers
+torch
+Pillow
+requests
+IndicTransToolkit
+flask-cors
+google-generativeai
